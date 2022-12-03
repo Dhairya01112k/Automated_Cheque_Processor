@@ -39,7 +39,7 @@
         2.	python -m venv <path for creating virtualenv>
         3.	To activate: <virtualenv path>\Scripts\activate
 
-2. Clone the repository: git clone https://github.com/ekarth/AutomatedChequeProcessing
+2. Clone the repository
 3. Change the directory: cd AutomatedChequeProcessing
 4. Install the requirements: pip install -r requirements.txt
 5. Create service account on Google Cloud Platform and enable Vision API service.
