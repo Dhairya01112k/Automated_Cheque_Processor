@@ -23,8 +23,16 @@ The OCR (Optical Character Reader) has been used to scrap out the words from the
 ![191279204-5c03868d-1e9c-4b3c-aacc-fe57351a3188](https://user-images.githubusercontent.com/55848343/205454732-76180664-44ef-4afb-b477-f5de834245a3.png)
 ![191278176-58112a28-d607-4df3-8b4c-00976190ede3](https://user-images.githubusercontent.com/55848343/205454734-8cd7255e-b123-425a-9a51-001e39507fd1.png)
 ![191278183-bdcb68ec-95c9-46bc-aba9-94c1d4740e31](https://user-images.githubusercontent.com/55848343/205454738-7809bffe-f9bc-4656-a5fa-ff46f716408f.png)
+![206662596-05990c08-60dc-46be-9b22-153047a260b3](https://user-images.githubusercontent.com/55848343/206673873-f96cf5bf-8708-40ce-ba2b-132784e7e873.png)
 ![191279304-d73410b7-f218-47b6-9cad-7e5830d4ff28](https://user-images.githubusercontent.com/55848343/205454775-8d51ce34-a971-4ddf-8966-92865287a181.png)
 ![191278208-9daf47b9-1ad7-46c0-91cc-5a92c8132d62](https://user-images.githubusercontent.com/55848343/205454745-db251b28-1729-4002-b5d2-755ac2b8b6d1.png)
+
+### MongoDB Database:
+![191287127-c56ebbe3-fbce-4f16-8b22-ec4a82368648](https://user-images.githubusercontent.com/55848343/206674227-fe1bb903-9cbf-4f73-bee9-15142c695d02.jpg)
+
+![191287139-496d0993-2b1f-44a7-81dd-e30cd9e8ad3e](https://user-images.githubusercontent.com/55848343/206674254-a9d11fa2-3a08-484b-b41b-849e2a94393e.jpg)
+
+![191287143-acd61067-3e56-4444-86d8-c93745f42dce](https://user-images.githubusercontent.com/55848343/206674275-98d1ac26-4e63-4b4a-9fb2-29a0ce47ccbb.jpg)
 
 # Instructions:
 ### Prerequisites:
