@@ -34,6 +34,10 @@ The OCR (Optical Character Reader) has been used to scrap out the words from the
 
 ![191287143-acd61067-3e56-4444-86d8-c93745f42dce](https://user-images.githubusercontent.com/55848343/206674275-98d1ac26-4e63-4b4a-9fb2-29a0ce47ccbb.jpg)
 
+# Live Working Video 
+Google's API has been used via student id for which access is available till 14th December 2022.
+https://drive.google.com/drive/u/1/folders/1XK-3N7BP8DagCW4Y5xCPsWKR-m8jQGdU
+
 # Instructions:
 ### Prerequisites:
 1. Python3 should be installed on the system.
